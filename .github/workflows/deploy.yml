@@ -1,0 +1,25 @@
+name: Publish Website to cPanel
+
+# Trigger the workflow on push to the main branch
+on:
+  push:
+    branches:
+      - main
+
+# Define the jobs to run
+jobs:
+  FTP-Deploy-Action:
+    # Run on the latest Ubuntu environment
+    runs-on: ubuntu-latest
+
+    steps:
+      # Check out the code in the repository
+      - uses: actions/checkout@v2.1.0
+
+      # Deploy to cPanel via FTP
+      - name: FTP-Deploy-Action
+        uses: SamKirkland/FTP-Deploy-Action@3.1.1
+        with:
+          ftp-server: ${{ secrets.FTP_SERVER }}
+          ftp-username: ${{ secrets.FTP_USERNAME }}
+          ftp-password: ${{ secrets.FTP_PASSWORD }}
