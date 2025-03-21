@@ -19,30 +19,32 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
-        </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        With a degree in{" "}
+        <span className="font-medium">Agribusiness Management</span> from the
+        University of Nairobi, I’ve built a strong foundation as a Systems and
+        Process Officer in the retail industry. My passion for technology led me
+        to pursue{" "}
+        <span className="font-medium">software engineering</span> at Holberton
+        School, where I’m mastering{" "}
+        <span className="font-medium">Python, Java, C++, and JavaScript</span>.{" "}
+        <span className="italic">What I love most about programming</span> is
+        tackling complex challenges and designing efficient solutions. My
+        expertise spans{" "}
+        <span className="font-medium">credit analysis, management, and customer
+        service</span>, complemented by technical skills like web development
+        and database management with SQL/NoSQL.
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+        <span className="italic">When I’m not working or coding</span>, I enjoy
+        researching industry topics as a freelance writer, ensuring precision
+        and consistency in my work. I’m committed to{" "}
+        <span className="font-medium">continuous learning</span>, currently
+        exploring advanced software development methodologies like Scrum and
+        Kanban, while honing my emotional intelligence to thrive in team
+        settings. I’m seeking opportunities to blend my analytical background
+        with my growing tech skills in a{" "}
+        <span className="font-medium">software development role</span>.
       </p>
     </motion.section>
   );

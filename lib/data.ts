@@ -35,52 +35,84 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "Sales Analyst",
+    location: "Kenafric Industries Ltd, Nairobi County, Kenya",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2019",
-  },
-  {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
-    description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "Compile, analyze, and report sales data to provide actionable insights. Monitor competitive activity, customer trends, and market dynamics. Forecast demand, revenue, and expenses to guide sales strategies.",
     icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
+    date: "November 2024 - Present",
   },
   {
-    title: "Full-Stack Developer",
-    location: "Houston, TX",
+    title: "Software Engineering Student",
+    location: "alx_africa",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
-    icon: React.createElement(FaReact),
-    date: "2021 - present",
+      "Mastering Python, Java, C++, and JavaScript, with a focus on data structures, algorithms, and web development (HTML, CSS). Applying Scrum and Kanban methodologies for efficient project workflows.",
+    icon: React.createElement(LuGraduationCap),
+    date: "August 2023 - Present",
+  },
+  {
+    title: "Online Writer",
+    location: "Self Employed",
+    description:
+      "Research industry-related topics using online sources, interviews, and studies. Write, proofread, and edit research papers and blog posts, ensuring consistency in style and tone.",
+    icon: React.createElement(CgWorkAlt),
+    date: "December 2019 - Present",
+  },
+  {
+    title: "Credit Analyst",
+    location: "Bboxx, Nairobi County, Kenya",
+    description:
+      "Analyzed customer repayment patterns to assess credit quality. Prepared daily, weekly, and monthly portfolio performance reports. Supported business decisions with data-driven insights.",
+    icon: React.createElement(CgWorkAlt),
+    date: "January 2024 - November 2024",
+  },
+  {
+    title: "Systems and Process Officer",
+    location: "Bboxx, Nairobi County, Kenya",
+    description:
+      "Designed process frameworks and supported field staff in implementation. Collaborated with cross-functional teams to troubleshoot issues and conducted system reviews to improve efficiencies.",
+    icon: React.createElement(CgWorkAlt),
+    date: "May 2022 - January 2024",
+  },
+  {
+    title: "Shop Manager",
+    location: "Bboxx, Kisii, Kisii County, Kenya",
+    description:
+      "Managed daily shop operations, including stock, petty cash, and customer service. Liaised with retail teams to ensure smooth operations and customer satisfaction.",
+    icon: React.createElement(CgWorkAlt),
+    date: "February 2021 - May 2022",
+  },
+  {
+    title: "B.Sc. in Agribusiness Management",
+    location: "University of Nairobi, Nairobi County, Kenya",
+    description:
+      "Graduated with a degree in Agribusiness Management, building a strong foundation in agricultural business and management principles.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2015 - 2019",
   },
 ] as const;
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "Sales Dashboard",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
-    imageUrl: corpcommentImg,
+      "Developed a web-based dashboard to visualize sales data trends and forecasts. Built during my time as a Sales Analyst to assist in monitoring market dynamics and providing actionable insights.",
+    tags: ["JavaScript", "HTML", "CSS", "Python", "SQL"],
+    imageUrl: corpcommentImg, // Replace with an actual sales dashboard image if available
   },
   {
-    title: "rmtDev",
+    title: "Portfolio Website",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
-    imageUrl: rmtdevImg,
+      "Created a personal portfolio site as part of my software engineering studies. Features a responsive design to showcase my skills, experience, and projects, with a focus on clean UI and functionality.",
+    tags: ["HTML", "CSS", "JavaScript", "Git"],
+    imageUrl: rmtdevImg, // Replace with an actual portfolio site screenshot if available
   },
   {
-    title: "Word Analytics",
+    title: "Credit Risk Analyzer",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+      "Built a tool to analyze customer repayment patterns and assess credit quality. Developed during my Credit Analyst role to support portfolio performance reporting and business decisions.",
+    tags: ["Python", "SQL", "JavaScript"],
+    imageUrl: wordanalyticsImg, // Replace with an actual credit tool image if available
   },
 ] as const;
 
