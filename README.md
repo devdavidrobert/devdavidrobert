@@ -26,8 +26,6 @@ This repository contains my personal portfolio website, built with **Next.js**, 
 - 📧 **Contact Form**: Integrated with React.Email and Resend for easy communication.
 - ✨ **Animations**: Smooth transitions using Framer Motion.
 
-### Live Demo
-Check out the live site: [david-robert-portfolio.vercel.app](https://david-robert-portfolio.vercel.app) *(Update this link after deployment)*
 
 ### Screenshots
 ![Portfolio Screenshot](public/images/portfolio-screenshot.png) *(Add a screenshot of your portfolio site)*
