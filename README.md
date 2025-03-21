@@ -1,31 +1,22 @@
-Hi there 👋
-[![Watch tutorial here](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)
+# 👋 Hello, I'm David Robert!
 
-# [Watch video here](https://youtu.be/sUKptmUVIBM)
+I'm a **Sales Analyst and Software Engineering Student** based in Nairobi County, Kenya, with over **5 years of professional experience**. I specialize in building data-driven solutions and applications, with a focus on **Python** and **JavaScript**. I enjoy combining my analytical background with my growing technical skills to create impactful projects.
 
-## What you will learn
+This repository serves as my GitHub profile and hosts my personal portfolio website, where you can explore my work, skills, and journey.
 
-- Latest Next.js 13 features
-- Next.js App Router
-- Next.js Server Actions
-- Client & Server Components
-- TypeScript (Beginner & Intermediate)
-- Tailwind CSS
-- Context API
-- Advanced Animations with Framer Motion
-- React.Email & Resend
-- Custom React hooks
-- Fresh, modern UI design
-- Light & Dark mode
-- Responsive website
+---
 
-## Important
+## 🌟 About Me
 
-If you want to be a professional developer, you have to know the fundamentals like JavaScript and CSS really well. I highly recommend you go through my [Professional JavaScript](https://bytegrad.com/courses/professional-javascript) and [Professional CSS](https://bytegrad.com/courses/professional-css) courses.
+- 🎓 **Education**: B.Sc. in Agribusiness Management from the University of Nairobi (2015-2019), currently pursuing Software Engineering at Holberton School (2023-2024).
+- 💼 **Experience**: Experienced Systems and Process Officer in the retail industry, now transitioning into software development.
+- 🛠️ **Skills**: Skilled in Management, Customer Service, Emotional Intelligence, and Analytical Skills, with technical expertise in Python, JavaScript, HTML, CSS, SQL/NoSQL, and Git.
+- 🏆 **Certifications**: Innovative Customer Service Techniques, Developing Your Emotional Intelligence, Managing Teams, and more.
+- 🌱 **Currently Learning**: Advanced software development methodologies (Scrum, Kanban) and modern programming practices.
 
-I'm close to releasing a complete React & Next.js course. Get on the email list to receive early-bird pricing: [link](https://email.bytegrad.com/).
+---
 
-## Setup
+## 🚀 My Portfolio Website
 
 1. Add RESEND_API_KEY environment variable in .env.local
 2. In the send-email.ts action file, change the "to" email to your own email
@@ -42,6 +33,9 @@ Check out the live site: [david-robert-portfolio.vercel.app](https://david-rober
 
 ### Screenshots
 ![Portfolio Screenshot](public/images/portfolio-screenshot.png) *(Add a screenshot of your portfolio site)*
+
+### Screenshots
+![Portfolio Screenshot](public/images/portfolio-screenshot.png)
 
 ---
 
@@ -79,6 +73,7 @@ Check out the live site: [david-robert-portfolio.vercel.app](https://david-rober
   - Prepared portfolio performance reports to support business decisions.
 
 *See my full experience on the portfolio site!*
+*See my full experience on www.devdavidrobert.com*
 
 ---
 
@@ -87,6 +82,7 @@ Check out the live site: [david-robert-portfolio.vercel.app](https://david-rober
 - 📧 **Email**: [nyamwangedavid2019@gmail.com](mailto:nyamwangedavid2019@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/david-robertny](https://www.linkedin.com/in/david-robertny)
 - 📱 **Phone**: 0708999688
+- 📱 **Phone**: +254795599339
 - 💻 **GitHub**: [github.com/devdavidrobert](https://github.com/devdavidrobert)
 
 ---
@@ -96,4 +92,5 @@ I’ve been recognized with a **Customer Service Award** for my dedication to ex
 
 ---
 
+*Built with ❤️ using Next.js, React, and Tailwind CSS.*
 *Built with ❤️ using Next.js, React, and Tailwind CSS.*
