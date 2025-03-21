@@ -28,7 +28,7 @@ This repository contains my personal portfolio website, built with **Next.js**, 
 
 
 ### Screenshots
-![Portfolio Screenshot](public/images/portfolio-screenshot.png) *(Add a screenshot of your portfolio site)*
+![Portfolio Screenshot](public/images/portfolio-screenshot.png)
 
 ---
 
@@ -65,7 +65,7 @@ This repository contains my personal portfolio website, built with **Next.js**, 
   - Analyzed customer repayment patterns to assess credit quality.  
   - Prepared portfolio performance reports to support business decisions.
 
-*See my full experience on the portfolio site!*
+*See my full experience on www.devdavidrobert.com*
 
 ---
 
@@ -73,7 +73,7 @@ This repository contains my personal portfolio website, built with **Next.js**, 
 
 - 📧 **Email**: [nyamwangedavid2019@gmail.com](mailto:nyamwangedavid2019@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/david-robertny](https://www.linkedin.com/in/david-robertny)
-- 📱 **Phone**: 0708999688
+- 📱 **Phone**: +254795599339
 - 💻 **GitHub**: [github.com/devdavidrobert](https://github.com/devdavidrobert)
 
 ---
