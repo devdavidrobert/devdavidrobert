@@ -206,10 +206,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- **Website**: [Your website URL]
-- **Email**: [Your email]
-- **LinkedIn**: [Your LinkedIn profile]
-- **GitHub**: [Your GitHub profile]
+- **Website**: www.devdavidrobert.com
+- **Email**: devdavidrobert@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/david-robert-ny/
 
 ---
 
