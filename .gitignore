@@ -188,5 +188,3 @@ next-env.d.ts
 *.zip
 *.tar.gz
 *.rar
-node_modules
-node_modules
